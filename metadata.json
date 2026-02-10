@@ -1,6 +1,7 @@
+
 {
   "name": "Rede365",
-  "description": "A plataforma definitiva para encontrar e contratar profissionais locais em Salvador, Simões Filho e Lauro de Freitas. Conectando talentos baianos com clientes reais.",
+  "description": "Encontre e contrate profissionais locais em Salvador, Simões Filho e Lauro de Freitas. Conectando talentos baianos com clientes reais através da Rede365.",
   "requestFramePermissions": [
     "camera",
     "microphone",
